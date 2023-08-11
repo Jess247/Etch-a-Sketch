@@ -1,4 +1,4 @@
-const container =  document.querySelector('.container');
+const container =  document.querySelector('.grid-container');
 const generateGridBtn = document.querySelector('.generate-grid-btn');
 const clearGridBtn = document.querySelector('.clear-grid-btn');
 

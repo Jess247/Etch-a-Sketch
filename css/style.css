@@ -38,9 +38,7 @@ section {
     border-radius: 5px;
     background-color: honeydew;
 }
-.grid-item {
-    /* border: 0.1px dotted black; */
-}
+
 .frame {
     height:auto;
     width: 850px;

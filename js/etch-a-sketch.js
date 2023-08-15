@@ -13,6 +13,7 @@ generateGridBtn.addEventListener('click', () => {
     }
     generateGrid(userInputNum);
 });
+
 colorPicker.addEventListener('click', () => {
     const gridItems = document.querySelectorAll('.grid-item');
     gridItems.forEach((item) => {item.addEventListener('mouseover',(e) => {
